@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'mdb_static_cities'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="static_cities">City</label>
+			<label index="static_cities.city">City</label>
+			<label index="static_cities.name_supplement">Name Supplement</label>
+			<label index="static_cities.supplement_prefix">Supplement Prefix</label>
+			<label index="static_cities.supplement_postfix">Supplement Postfix</label>
+			<label index="static_cities.is_capital.I.0">Unknown</label>
+			<label index="static_cities.is_capital.I.1">Provincial Capital</label>
+			<label index="static_cities.is_capital.I.2">Federal Capital</label>
+			<label index="static_cities.is_capital.I.3">No Capital</label>
+			<label index="static_cities.is_capital">Is Capital</label>
+            <label index="static_cities.country">Country</label>
+			<label index="static_cities.countryzone">Country Zone</label>
+			<label index="static_cities.special_status.I.0">Unknown</label>
+			<label index="static_cities.special_status.I.1">Hanseatic City</label>
+			<label index="static_cities.special_status.I.2">Free hanseatic City</label>
+			<label index="static_cities.special_status.I.3">Free and hanseatic City</label>
+			<label index="static_cities.special_status.I.4">No special Status</label>
+			<label index="static_cities.special_status">Special Status</label>
+			<label index="static_cities.longitude">Longitude</label>
+			<label index="static_cities.latitude">Latitude</label>
+			<label index="static_cities.zip_range">Zip Range</label>
+			<label index="static_cities.zip_division">Zip Division / Area</label>
+			<label index="static_cities.zip_list">Zip List</label>
+			<label index="static_cities.admin_region">Adminstrative Region</label>
+			<label index="static_cities.kreis_dependency">Kreis-Dependency</label>
+			<label index="static_cities.nn">Elevation NN in Meters</label>
+			<label index="static_cities.phonecode">Phone Code</label>
+			<label index="static_cities.car_plate_code">Car Plate Code</label>
+			<label index="static_cities.district_key">District Key</label>
+			<label index="static_cities.www">Websites</label>
+			<label index="static_cities.area">Area (km^2)</label>
+			<label index="static_cities.population">Population</label>
+			<label index="static_cities.population_date">population_date</label>
+			<label index="static_cities.population_density">Population Density</label>
+			<label index="static_cities.coat_of_arms">Coat of Arms</label>
+			<label index="static_cities.coat_of_arms_caption">Caption for Coat of Arms</label>
+			<label index="static_cities.info_source_links">inks to Source and Copyright of Information</label>
+			<label index="static_cities.info_source_caption">Link Text to last field</label>
+			<label index="static_cities.nuts">NUTS (Nomenclature of Territorial Units for Statistics)</label>
+			<label index="static_cities.locode">LOCODE</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="static_cities">Stadt</label>
+			<label index="static_cities.name_supplement">Namensergänzung</label>
+			<label index="static_cities.supplement_prefix">Ergänzungspräfix</label>
+			<label index="static_cities.supplement_postfix">Ergänzungsanhang</label>
+			<label index="static_cities.is_capital.I.0">Unbekannt</label>
+			<label index="static_cities.is_capital.I.1">Landeshauptstadt</label>
+			<label index="static_cities.is_capital.I.2">Bundeshauptstadt</label>
+			<label index="static_cities.is_capital.I.3">Keine Hauptstadt</label>
+			<label index="static_cities.is_capital">Ist Hauptstadt</label>
+            <label index="static_cities.country">Land</label>
+			<label index="static_cities.countryzone">Bundesland</label>
+			<label index="static_cities.special_status.I.0">Unbekannt</label>
+			<label index="static_cities.special_status.I.1">Hansestadt</label>
+			<label index="static_cities.special_status.I.2">Freie Hansestadt</label>
+			<label index="static_cities.special_status.I.3">Freie und Hansestadt</label>
+			<label index="static_cities.special_status.I.4">Kein spezieller Status</label>
+			<label index="static_cities.special_status">Spezieller Status</label>
+			<label index="static_cities.longitude">Längengrad</label>
+			<label index="static_cities.latitude">Breitengrad</label>
+			<label index="static_cities.zip_range">Postleitzahlen Region</label>
+			<label index="static_cities.zip_division">Postleitzahlen Bereich</label>
+			<label index="static_cities.zip_list">Postleitzahlen Liste</label>
+			<label index="static_cities.admin_region">Regierungsbezirk</label>
+			<label index="static_cities.kreis_dependency">Landkreis</label>
+			<label index="static_cities.nn">Höhe von NN in Metern</label>
+			<label index="static_cities.phonecode">Telephonvorwahl</label>
+			<label index="static_cities.car_plate_code">KFZ Kennzeichen</label>
+			<label index="static_cities.district_key">Gemeindeschlüssel</label>
+			<label index="static_cities.www">Webseiten</label>
+			<label index="static_cities.area">Fläche (km^2)</label>
+			<label index="static_cities.population">Einwohner</label>
+			<label index="static_cities.population_date">Datum der Populationsmessung</label>
+			<label index="static_cities.population_density">Populationsdichte</label>
+			<label index="static_cities.coat_of_arms">Wappen</label>
+			<label index="static_cities.coat_of_arms_caption">Wappen Bezeichnung</label>
+			<label index="static_cities.info_source_links">Links zu Quelle und Urheberrecht der Information</label>
+			<label index="static_cities.info_source_caption">Linkext zum letzten Feld</label>
+			<label index="static_cities.nuts">NUTS (Systematik der Gebietseinheiten für die Statistik)</label>
+			<label index="static_cities.locode">LOCODE</label>
+		</languageKey>
+	</data>
+</T3locallang>
