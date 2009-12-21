@@ -1,8 +1,8 @@
 Static Cities
 
 Names of Cities sometimes are splitted in different Table-Fields.
-Example: 'xxx an der Weinstraße'
-Here xxx is the citname, "an der" should be inserted in supplement_prefix and Weinstraße is the 
+Example: 'xxx an der WeinstraÃŸe'
+Here xxx is the citname, "an der" should be inserted in supplement_prefix and WeinstraÃŸe is the 
 name_supplement.
 Data aren't always verified so exactly and sometimes could be changed also to fulfill some special 
 requirements.
@@ -25,8 +25,8 @@ cities too.
 
 zips are splittetd in the fields zip_range and zip_list. This solution is still quite bad but
 I explain:
-- zip_range holds ranges like 12345–67890
-Some cities like hamburg or frankfurt have several ranges like: 12340–12349, 67890–67899
+- zip_range holds ranges like 12345â€“67890
+Some cities like hamburg or frankfurt have several ranges like: 12340â€“12349, 67890â€“67899
 - zip_list holds lists like 12345,12346,12347 (which could be noted as range too)
 Lists are searchable much easier I think and in future perhaps zips are outsourced in an own table.
 

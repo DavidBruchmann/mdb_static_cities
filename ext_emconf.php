@@ -13,7 +13,7 @@
 $EM_CONF[$_EXTKEY] = array(
 	'title' => 'MDB Static Cities DE',
 	'description' => 'EN: Static City Data of Germany.
-DE: Statische Stätedaten von Deutschland.
+DE: Statische Städtedaten von Deutschland.
 FR: D\'information statique des villes germanique.',
 	'category' => 'misc',
 	'author' => 'David Bruchmann',
